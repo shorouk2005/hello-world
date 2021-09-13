@@ -69,3 +69,6 @@
 !**/ios/**/default.pbxuser
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+
+
+/android//gradle-wrapper.jar **/android/.gradle **/android/captures/ **/android/gradlew **/android/gradlew.bat **/android/local.properties /android//GeneratedPluginRegistrant.java
